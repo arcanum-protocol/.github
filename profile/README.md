@@ -1,1 +1,3 @@
-Decentralized metaDAO protocol that manages $ZNAK as a financial power for DAO management
+Decentralized asset management protocol that allows to create complicated asset management portfolio and manage them in a DeFi manner.
+* [Whitepaper](https://arcanum.to/whitepaper.pdf)
+* [Website](https://arcanum.to)
